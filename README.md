@@ -1,2 +1,2 @@
 # JAVA-Problems
-Collection of java programs created while learning the basics of java
+This repository contains a collection of Java programs that demonstrate key programming concepts, ranging from basics to more advanced topics. The codes are organized into different sections to provide clarity and ease of exploration.
